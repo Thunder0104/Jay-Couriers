@@ -205,7 +205,7 @@ function toggleFunction() {
     </p>
     
   </div>
-
+	</div>
 
 
 </footer>
