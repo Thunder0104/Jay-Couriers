@@ -13,10 +13,7 @@
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 <link rel="icon" href="favicon.ico" type="image/x-icon">
-<?php
-include "login.php";
-include "track-status.php";
-?>
+
 <style>
 .backdrop{
   content="";
