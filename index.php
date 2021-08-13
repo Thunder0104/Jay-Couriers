@@ -106,7 +106,7 @@ body, html {
       </h1>
       <p class="mb-8 leading-relaxed">In this, we provide mainly 2 services. One is Admin Login in which branch managers and administrators people can login and can do many things by accessing the couriers data and managing them.The other is for customers to track status of the courier.</p>
       <div class="flex justify-center">
-        <a href="login.php"><button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Admin Login</button></a>
+        <a href="./login.php"><button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Admin Login</button></a>
         <a href="track-status.php"> <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Track Status</button></a>
       </div>
     </div>
